@@ -1,2 +1,2 @@
-# Profil_Perusahan
+# Profil_Perusahaan
 Mata kuliah Pemrograman Web
